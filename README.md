@@ -195,21 +195,9 @@ The app checks for `text`, `ai_response`, `output`, or `message` keys in the res
 
 - Built with [Streamlit](https://streamlit.io/)
 - Automation powered by [n8n](https://n8n.io/)
-- Hosted on [Railway](https://railway.app/)
 - AI capabilities via Large Language Models
 
 
----
-
-## 📸 Screenshots
-
-### Main Interface
-```
-🚚 ShipSense AI
-Intelligent Shipment Diagnostics — Powered by GenAI
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[Select Shipment ID ▼]  [🔍 Analyze]
 
 ╔═══════════════════════════════════════╗
 ║  ● GenAI Reasoning                    ║
