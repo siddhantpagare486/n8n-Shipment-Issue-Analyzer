@@ -42,7 +42,7 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/siddharthpurswani/Shipment_issue_summary.git
+git clone https://github.com/siddhantpagare486/n8n-Shipment-Issue-Analyzer
 cd Shipment_issue_summary
 ```
 
