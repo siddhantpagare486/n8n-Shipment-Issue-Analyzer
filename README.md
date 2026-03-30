@@ -198,12 +198,3 @@ The app checks for `text`, `ai_response`, `output`, or `message` keys in the res
 - AI capabilities via Large Language Models
 
 
-
-╔═══════════════════════════════════════╗
-║  ● GenAI Reasoning                    ║
-║                                       ║
-║  [AI-generated insights appear here]  ║
-╚═══════════════════════════════════════╝
-```
-
----
